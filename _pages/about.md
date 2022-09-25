@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style="text-align: justify">
 
-Hey! I am Nafis Neehal. I am currently pursuing my PhD in Computer Science at Rensselaer Polytechnic Institute. I am in 3rd year of my PhD. My research interest is in Data Science and Applied Machine Learning with extensive application in Clinical and Health Informatics. <br> <br>
+Hey! I am Nafis Neehal bros. I am currently pursuing my PhD in Computer Science at Rensselaer Polytechnic Institute. I am in 3rd year of my PhD. My research interest is in Data Science and Applied Machine Learning with extensive application in Clinical and Health Informatics. <br> <br>
 
 I primarily work in <code>Python</code> and in <code>R</code> for data exploration, analysis, and processing. I am proficient in working with popular Machine and Deep Learning libraries and frameworks such as <code>Tensorflow </code>, <code>Keras</code>, <code>Pytorch</code> and <code>Scikit-Learn</code>.
 
