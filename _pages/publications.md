@@ -23,7 +23,7 @@ author_profile: true
       Complex Care Management." In 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1443-1448. IEEE, 2021.
       <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/9669714">[Link]</a>
-        <a href="../files/ccm_21.pdf">[PDF]</a>
+        <a href="../files/pubs/ccm_21.pdf">[PDF]</a>
     </li>
 
     <h3> 2020 </h3>
@@ -33,7 +33,7 @@ author_profile: true
 
       <br>
         <a href="https://link.springer.com/chapter/10.1007/978-981-13-7564-4_43">[Link]</a>
-        <a href="../files/olympic_20.pdf">[PDF]</a>
+        <a href="../files/pubs/olympic_20.pdf">[PDF]</a>
     </li>
 
     <h3> 2019 </h3>
@@ -45,7 +45,7 @@ author_profile: true
 
       <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8850935">[Link]</a>
-        <a href="../files/acnenet_19.pdf">[PDF]</a>
+        <a href="../files/pubs/acnenet_19.pdf">[PDF]</a>
     </li>
 
     <li>
@@ -54,7 +54,7 @@ author_profile: true
 
       <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8934464">[Link]</a>
-        <a href="../files/cervical_19.pdf">[PDF]</a>
+        <a href="../files/pubs/cervical_19.pdf">[PDF]</a>
     </li>
 
     <li>
@@ -63,7 +63,7 @@ author_profile: true
 
       <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8679375">[Link]</a>
-        <a href="../files/personality_19.pdf">[PDF]</a>
+        <a href="../files/pubs/personality_19.pdf">[PDF]</a>
     </li>
 
     <li>
@@ -73,37 +73,10 @@ author_profile: true
       <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8679286">[Link]</a>
         <a href="https://github.com/nafis-neehal/ECGAuth_Kmeans">[Code]</a>
-        <a href="../files/ecg_19.pdf">[PDF]</a>
+        <a href="../files/pubs/ecg_19.pdf">[PDF]</a>
     </li>
 
     <h3> 2018 </h3>
-
-    <li>
-      Islam, Mohammad Shakirul, Ferdouse Ahmed Foysal, <u>Nafis Neehal</u>, Enamul Karim, and Syed Akhter Hossain. 
-      "InceptB: a CNN based classification approach for recognizing traditional bengali games." Procedia computer science 143 (2018): 595-602.
-
-      <br>
-        <a href="https://www.sciencedirect.com/science/article/pii/S1877050918321343">[Link]</a>
-        <a href="../files/inceptb_18.pdf">[PDF]</a>
-    </li>
-
-    <li>
-      Foysal, Md, Ferdouse Ahmed, Mohammad Shakirul Islam, Asif Karim, and <u>Nafis Neehal</u>. "Shot-Net: A convolutional neural network for classifying different 
-      cricket shots." In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 111-120. Springer, Singapore, 2018.
-
-      <br>
-        <a href="https://link.springer.com/chapter/10.1007/978-981-13-9181-1_10">[Link]</a>
-        <a href="../files/shotnet_18.pdf">[PDF]</a>
-    </li>
-
-    <li>
-      Haque, Sadeka, A. K. M. Rabby, Monira Akter Laboni, <u>Nafis Neehal</u>, and Syed Akhter Hossain. "ExNET: deep neural network for exercise pose detection." 
-      In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 186-193. Springer, Singapore, 2018.
-
-      <br>
-        <a href="https://link.springer.com/chapter/10.1007/978-981-13-9181-1_17">[Link]</a>
-        <a href="../files/exnet_18.pdf">[PDF]</a>
-    </li>
 
     <li>
       Junayed, Masum Shah, Afsana Ahsan Jeny, <u>Nafis Neehal</u>, Syeda Tanjila Atik, and Syed Akhter Hossain. "A comparative study of different cnn models in city 
@@ -112,8 +85,8 @@ author_profile: true
 
       <br>
         <a href="https://link.springer.com/chapter/10.1007/978-981-13-9181-1_48">[Link]</a>
-        <a href="../files/landmark_18.pdf">[PDF]</a>
-    </li>
+        <a href="../files/pubs/landmark_18.pdf">[PDF]</a>
+    </li>    
 
     <li>
       Junayed, Masum Shah, Afsana Ahsan Jeny, <u>Nafis Neehal</u>, Eshtiak Ahmed, and Syed Akhter Hossain. "Incept-N: a convolutional neural network based 
@@ -122,10 +95,37 @@ author_profile: true
 
       <br>
         <a href="https://link.springer.com/chapter/10.1007/978-981-13-9184-2_41">[Link]</a>
-        <a href="../files/inceptn_18.pdf">[PDF]</a>
+        <a href="../files/pubs/inceptn_18.pdf">[PDF]</a>
+    </li>
+
+    <li>
+      Haque, Sadeka, A. K. M. Rabby, Monira Akter Laboni, <u>Nafis Neehal</u>, and Syed Akhter Hossain. "ExNET: deep neural network for exercise pose detection." 
+      In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 186-193. Springer, Singapore, 2018.
+
+      <br>
+        <a href="https://link.springer.com/chapter/10.1007/978-981-13-9181-1_17">[Link]</a>
+        <a href="../files/pubs/exnet_18.pdf">[PDF]</a>
+    </li>
+
+    <li>
+      Foysal, Md, Ferdouse Ahmed, Mohammad Shakirul Islam, Asif Karim, and <u>Nafis Neehal</u>. "Shot-Net: A convolutional neural network for classifying different 
+      cricket shots." In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 111-120. Springer, Singapore, 2018.
+
+      <br>
+        <a href="https://link.springer.com/chapter/10.1007/978-981-13-9181-1_10">[Link]</a>
+        <a href="../files/pubs/shotnet_18.pdf">[PDF]</a>
     </li>
 
     <h3> 2017 </h3>
+
+    <li>
+      Islam, Mohammad Shakirul, Ferdouse Ahmed Foysal, <u>Nafis Neehal</u>, Enamul Karim, and Syed Akhter Hossain. 
+      "InceptB: a CNN based classification approach for recognizing traditional bengali games." Procedia computer science 143 (2018): 595-602.
+
+      <br>
+        <a href="https://www.sciencedirect.com/science/article/pii/S1877050918321343">[Link]</a>
+        <a href="../files/pubs/inceptb_18.pdf">[PDF]</a>
+    </li>
 
     <li>
       <u>Neehal, Nafis</u>, Dewan Ziaul Karim, and Ashraful Islam. "Cloud-poa: A cloud-based map only implementation of po-msa 
@@ -134,7 +134,7 @@ author_profile: true
       <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8281808">[Link]</a>
         <a href="https://github.com/nafis-neehal/CloudPoa">[Code]</a>
-        <a href="../files/cloudpoa_17.pdf">[PDF]</a>
+        <a href="../files/pubs/cloudpoa_17.pdf">[PDF]</a>
     </li>
 
   </ul>
