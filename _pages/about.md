@@ -17,6 +17,7 @@ I primarily work in <code>Python</code> and in <code>R</code> for data explorati
 
 News
 ======
+<li>Paper got accepted in IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (October 2022)</li>
 <li>Paper got accepted in 8th Int'l Conf on Health Informatics and Medical Systems (HIMS) (April 2022)</li>
 <li>Paper got accepted in IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (Dec 2021)</li>
 <li>Joined HEALS project as Graduate Research Assistant (an IBM-RPI collaborative effort)</li>
