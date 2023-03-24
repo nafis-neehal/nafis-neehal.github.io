@@ -15,7 +15,7 @@ Hey! I am Nafis Neehal. I am currently pursuing my PhD in Computer Science at Re
 
 News
 ====== 
-<li>Poster got accepted in 44th Annual Meeting of Society for Clinical Trials </li>
+<li>Poster got accepted in 44th Annual Meeting of Society for Clinical Trials (February 2023)</li>
 <li>Paper got accepted in IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (October 2022)</li>
 <li>Paper got accepted in 8th Int'l Conf on Health Informatics and Medical Systems (HIMS) (April 2022)</li>
 <li>Paper got accepted in IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (Dec 2021)</li>
