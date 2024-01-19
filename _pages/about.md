@@ -9,12 +9,14 @@ redirect_from:
 ---
 <p style="text-align: justify">
 
-Hey! I am Nafis Neehal. I am currently pursuing my PhD in Computer Science at Rensselaer Polytechnic Institute. I am in 4th year of my PhD. My research interest is in Applied Machine Learning, Data Science and Causal Inference. I primarily work in <code>Python</code> and in <code>R</code> for data exploration, analysis, and processing. I am proficient in working with popular Machine and Deep Learning libraries and frameworks such as <code>Tensorflow </code>, <code>Keras</code>, <code>Pytorch</code> and <code>Scikit-Learn</code>.
+Nafis Neehal is an accomplished Ph.D. candidate in the CS Department at Rensselaer Polytechnic Institute with over seven years of experience in the realms of Applied Machine Learning, Deep Learning, and Data Science. Proficient in <code> Python </code> and <code> R </code>, his technical skillset extends to encompassing major ML/DL libraries like <code>Pytorch</code>, <code>Keras</code>, <code>Tensorflow</code>, <code>HuggingFace</code>, cloud platforms like <code>AWS</code>, and tools/languages including <code>SQL</code>, <code>PySpark</code> for BigData, and <code>Tableau</code> among others. 
 
+Nafis's career is marked by a deep engagement in developing and applying advanced computational models to real-world problems, particularly in healthcare. His research interests lie at the intersection of machine learning, causal inference, LLMs, generative AI, and healthcare, focusing on optimizing processes and outcomes through innovative data-driven approaches. Beyond his research, Nafis is also dedicated to education, having taught foundational computer science courses, authoring machine learning books, and showcasing his well-rounded expertise in technology and data analysis.
 </p> 
 
 News
 ====== 
+<li> Passed PhD Candidacy Exam (December 2023) </li>
 <li>Paper got accepted in AMIA Annual Symposium 2023 (July 2023)</li>
 <li>Received "Best Poster Award" in 44th Annual Meeting of Society for Clinical Trials (May 2023)</li>
 <li>Poster got accepted in 44th Annual Meeting of Society for Clinical Trials (February 2023)</li>
