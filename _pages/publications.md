@@ -15,14 +15,30 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
 <ul>
+
+    <h3> 2024 </h3>
+    <li>
+      <u>Nafis Neehal</u>, Bowen Wang, Shayom Debopadhaya, Soham Dan, Keerthiram Murugesan, Vibha Anand, and Kristin P. Bennett. "CTBench: A Comprehensive Benchmark for Evaluating Language Model Capabilities in Clinical Trial Design" (Under Review) 2024.
+      <br>
+        <a href="https://arxiv.org/abs/2406.17888">[Link]</a>
+        <a href="../files/pubs/ctbench_24.pdf">[PDF]</a>
+    </li>
+
+    <h3> 2023 </h3>
+    <li>
+      <u>Nafis Neehal</u>, Vibha Anand, and Kristin P. Bennett. "Framework for Research in Equitable Synthetic Control Arms" AMIA Annual Symposium 2023.
+      <br>
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10785851/">[Link]</a>
+        <a href="../files/pubs/fresca_23.pdf">[PDF]</a>
+    </li>
+
     <h3> 2023 </h3>
     <li>
       <u>Nafis Neehal</u>, Vibha Anand, and Kristin P. Bennett. "EquiSCAT: Strategies for Equity Considerations in Synthetic Control Arm Design" (Accepted as Poster) In 44th Annual Meeting of Society for Clinical Trials. 2023.
       <br>
-        <a href="#">[Link]</a>
-        <a href="#">[PDF]</a>
+        <a href="../files/pubs/bp_award_23.jpg">[Link]</a>
+        <a href="../files/pubs/poster_23.pdf">[PDF]</a>
     </li>
 
     <h3> 2022 </h3>
@@ -38,13 +54,13 @@ author_profile: true
       <u>Nafis Neehal</u>, Mavroudeas Georgios, Malik Magdon-Ismail, Jason N. Kuruzovich, and Kristin P. Bennett. "Hybrid Matching Methods for Treatment Effect Estimation" In proceedings of 2022 International Conference on Health Informatics and Medical Systems (HIMS). SPRINGER. 2022.
       <br>
         <a href="#">[Link]</a>
-        <a href="#">[PDF]</a>
+        <a href="../files/pubs/hybrid_22.pdf">[PDF]</a>
     </li>
 
 
     <h3> 2021 </h3>
     <li>
-      Mavroudeas Georgios, <u>Nafis Neehal</u>, Xiao Shou, Malik Magdon-Ismail, Jason N. Kuruzovich, and Kristin P. Bennett. "Predictive Modeling for 
+      Mavroudeas Georgios, <u>Nafis Neehal</u>, Xiao Shou, Malik Magdon-Ismail, Jason N. Kuruzovich, and Kristin P. Bennett. "Predictive Modeling for
       Complex Care Management." In 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1443-1448. IEEE, 2021.
       <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/9669714">[Link]</a>
@@ -53,7 +69,7 @@ author_profile: true
 
     <h3> 2020 </h3>
     <li>
-      Shahana Shultana, Md Moharram, and <u>Nafis Neehal</u>. "Olympic sports events classification using convolutional neural networks." In Proceedings of 
+      Shahana Shultana, Md Moharram, and <u>Nafis Neehal</u>. "Olympic sports events classification using convolutional neural networks." In Proceedings of
       International Joint Conference on Computational Intelligence, pp. 507-518. Springer, Singapore, 2020.
 
       <br>
@@ -64,8 +80,8 @@ author_profile: true
     <h3> 2019 </h3>
 
     <li>
-      Masum Shah Junayed, Afsana Ahsan Jeny, Syeda Tanjila Atik, <u>Nafis Neehal</u>, Asif Karim, Sami Azam, and Bharanidharan Shanmugam. 
-      "AcneNet-a deep CNN based classification approach for acne classes." In 2019 12th International Conference on Information & Communication 
+      Masum Shah Junayed, Afsana Ahsan Jeny, Syeda Tanjila Atik, <u>Nafis Neehal</u>, Asif Karim, Sami Azam, and Bharanidharan Shanmugam.
+      "AcneNet-a deep CNN based classification approach for acne classes." In 2019 12th International Conference on Information & Communication
       Technology and System (ICTS), pp. 203-208. IEEE, 2019.
 
       <br>
@@ -74,7 +90,7 @@ author_profile: true
     </li>
 
     <li>
-      Enamul Karim, and <u>Nafis Neehal</u>. "An empirical study of cervical cancer diagnosis using ensemble methods." 
+      Enamul Karim, and <u>Nafis Neehal</u>. "An empirical study of cervical cancer diagnosis using ensemble methods."
       In 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), pp. 1-5. IEEE, 2019.
 
       <br>
@@ -83,7 +99,7 @@ author_profile: true
     </li>
 
     <li>
-      <u>Nafis Neehal</u>, and M. A. Mottalib. "Prediction of preferred personality for friend recommendation in social networks using 
+      <u>Nafis Neehal</u>, and M. A. Mottalib. "Prediction of preferred personality for friend recommendation in social networks using
       artificial neural network." In 2019 International Conference on Electrical, Computer and Communication Engineering (ECCE), pp. 1-6. IEEE, 2019.
 
       <br>
@@ -92,7 +108,7 @@ author_profile: true
     </li>
 
     <li>
-      <u>Nafis Neehal</u>, Dewan Ziaul Karim, Sejuti Banik, and Tasfia Anika. "Runtime Optimization of Identification Event in ECG Based Biometric Authentication." 
+      <u>Nafis Neehal</u>, Dewan Ziaul Karim, Sejuti Banik, and Tasfia Anika. "Runtime Optimization of Identification Event in ECG Based Biometric Authentication."
       In 2019 International Conference on Electrical, Computer and Communication Engineering (ECCE), pp. 1-5. IEEE, 2019.
 
       <br>
@@ -104,18 +120,18 @@ author_profile: true
     <h3> 2018 </h3>
 
     <li>
-      Masum Shah Junayed, Afsana Ahsan Jeny, <u>Nafis Neehal</u>, Syeda Tanjila Atik, and Syed Akhter Hossain. "A comparative study of different cnn models in city 
-      detection using landmark images." In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 547-560. Springer, 
+      Masum Shah Junayed, Afsana Ahsan Jeny, <u>Nafis Neehal</u>, Syeda Tanjila Atik, and Syed Akhter Hossain. "A comparative study of different cnn models in city
+      detection using landmark images." In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 547-560. Springer,
       Singapore, 2018.
 
       <br>
         <a href="https://link.springer.com/chapter/10.1007/978-981-13-9181-1_48">[Link]</a>
         <a href="../files/pubs/landmark_18.pdf">[PDF]</a>
-    </li>    
+    </li>
 
     <li>
-      Masum Shah Junayed, Afsana Ahsan Jeny, <u>Nafis Neehal</u>, Eshtiak Ahmed, and Syed Akhter Hossain. "Incept-N: a convolutional neural network based 
-      classification approach for predicting nationality from facial features." In International Conference on Recent Trends in Image Processing 
+      Masum Shah Junayed, Afsana Ahsan Jeny, <u>Nafis Neehal</u>, Eshtiak Ahmed, and Syed Akhter Hossain. "Incept-N: a convolutional neural network based
+      classification approach for predicting nationality from facial features." In International Conference on Recent Trends in Image Processing
       and Pattern Recognitsion, pp. 466-475. Springer, Singapore, 2018.
 
       <br>
@@ -124,7 +140,7 @@ author_profile: true
     </li>
 
     <li>
-      Sadeka Haque, A. K. M. Rabby, Monira Akter Laboni, <u>Nafis Neehal</u>, and Syed Akhter Hossain. "ExNET: deep neural network for exercise pose detection." 
+      Sadeka Haque, A. K. M. Rabby, Monira Akter Laboni, <u>Nafis Neehal</u>, and Syed Akhter Hossain. "ExNET: deep neural network for exercise pose detection."
       In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 186-193. Springer, Singapore, 2018.
 
       <br>
@@ -133,7 +149,7 @@ author_profile: true
     </li>
 
     <li>
-      Md, Ferdouse Ahmed Foysal, Mohammad Shakirul Islam, Asif Karim, and <u>Nafis Neehal</u>. "Shot-Net: A convolutional neural network for classifying different 
+      Md, Ferdouse Ahmed Foysal, Mohammad Shakirul Islam, Asif Karim, and <u>Nafis Neehal</u>. "Shot-Net: A convolutional neural network for classifying different
       cricket shots." In International Conference on Recent Trends in Image Processing and Pattern Recognition, pp. 111-120. Springer, Singapore, 2018.
 
       <br>
@@ -144,7 +160,7 @@ author_profile: true
     <h3> 2017 </h3>
 
     <li>
-      Mohammad Shakirul Islam, Ferdouse Ahmed Foysal, <u>Nafis Neehal</u>, Enamul Karim, and Syed Akhter Hossain. 
+      Mohammad Shakirul Islam, Ferdouse Ahmed Foysal, <u>Nafis Neehal</u>, Enamul Karim, and Syed Akhter Hossain.
       "InceptB: a CNN based classification approach for recognizing traditional bengali games." Procedia computer science 143 (2018): 595-602.
 
       <br>
@@ -153,7 +169,7 @@ author_profile: true
     </li>
 
     <li>
-      <u>Nafis Neehal</u>, Dewan Ziaul Karim, and Ashraful Islam. "Cloud-poa: A cloud-based map only implementation of po-msa 
+      <u>Nafis Neehal</u>, Dewan Ziaul Karim, and Ashraful Islam. "Cloud-poa: A cloud-based map only implementation of po-msa
       on amazon multi-node ec2 hadoop cluster." In 2017 20th International Conference of Computer and Information Technology (ICCIT), pp. 1-6. IEEE, 2017.
 
       <br>

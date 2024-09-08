@@ -3,20 +3,24 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
 <p style="text-align: justify">
 
-Nafis Neehal is an accomplished Ph.D. candidate in the CS Department at Rensselaer Polytechnic Institute with over seven years of experience in the realms of Applied Machine Learning, Deep Learning, and Data Science. Proficient in <code> Python </code> and <code> R </code>, his technical skillset extends to encompassing major ML/DL libraries like <code>Pytorch</code>, <code>Keras</code>, <code>Tensorflow</code>, <code>HuggingFace</code>, cloud platforms like <code>AWS</code>, and tools/languages including <code>SQL</code>, <code>PySpark</code> for BigData, and <code>Tableau</code> among others. 
+Nafis Neehal is an accomplished Ph.D. candidate in the CS Department at Rensselaer Polytechnic Institute with over seven years of experience in the realms of Applied Machine Learning, Deep Learning, and Data Science. Proficient in <code> Python </code> and <code> R </code>, his technical skillset extends to encompassing major ML/DL libraries like <code>Pytorch</code>, <code>Keras</code>, <code>Tensorflow</code>, <code>HuggingFace</code>, cloud platforms like <code>AWS</code>, and tools/languages including <code>SQL</code>, <code>PySpark</code> for BigData, and <code>Tableau</code> among others.
 
 Nafis's career is marked by a deep engagement in developing and applying advanced computational models to real-world problems, particularly in healthcare. His research interests lie at the intersection of machine learning, causal inference, LLMs, generative AI, and healthcare, focusing on optimizing processes and outcomes through innovative data-driven approaches. Beyond his research, Nafis is also dedicated to education, having taught foundational computer science courses, authoring machine learning books, and showcasing his well-rounded expertise in technology and data analysis.
-</p> 
 
-News
-====== 
-<li> Passed PhD Candidacy Exam (December 2023) </li>
+</p>
+
+# News
+
+<li>New Paper: https://arxiv.org/abs/2406.17888 (Under Review) </li>
+<li>Reviewer at AMIA Clinical Informatics Conference 2024 </li>
+<li>Passed PhD Candidacy Exam (December 2023) </li>
 <li>Paper got accepted in AMIA Annual Symposium 2023 (July 2023)</li>
 <li>Received "Best Poster Award" in 44th Annual Meeting of Society for Clinical Trials (May 2023)</li>
 <li>Poster got accepted in 44th Annual Meeting of Society for Clinical Trials (February 2023)</li>
@@ -33,5 +37,3 @@ News
 <li>Papers got accepted in International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R), India (August 2018, Springer, Scopus Indexed)</li>
 <li>Served as reviewer in International Journal of Computers and Applications published by Taylor and Francis Group (July, 2018)</li>
 <li>Paper got accepted in International Conference On Advances In Computing & Communications (ICACC), India (June, 2018, Elsevier, Scopus Indexed)</li>
-
-
