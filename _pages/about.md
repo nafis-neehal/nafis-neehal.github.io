@@ -4,7 +4,6 @@ title: About
 permalink: /
 subtitle: PhD Candidate (CS) | NLP/LLM (Dataset, Benchmarking, Fine-Tuning, Deploy, Evaluate, RAG) | Applied ML
 
-<div class="card info">
 profile:
   align: right
   image: prof_pic.jpg
