@@ -9,13 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <div class="more-info" style="text-align:center;"> 
-        <h4 class="mb-0">Nafis Neehal</h4> 
-        <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
-      </div>
-      <div class="container" style="text-align:center;"> 
-        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">Resume</a> 
-        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">CV</a>  
+      <div class="card info"
+        <div class="more-info" style="text-align:center;"> 
+          <h4 class="mb-0">Nafis Neehal</h4> 
+          <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
+        </div>
+        <div class="container" style="text-align:center;"> 
+          <a class="btn btn-sm" href="#" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">Resume</a> 
+          <a class="btn btn-sm" href="#" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">CV</a>  
+        </div>
       </div>
 
 news: false # includes a list of news items
