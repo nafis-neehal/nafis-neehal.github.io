@@ -10,10 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-  <div class="more-info" style="text-align:center;"> 
-    <h4>Nafis Neehal</h4> 
-    <p><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
-  </div>
+  #### Nafis Neehal
+  <nafisneehal95@gmail.com>
   <div class="container" style="text-align:center;"> 
     <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Resume</a> 
     <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">CV</a> 
