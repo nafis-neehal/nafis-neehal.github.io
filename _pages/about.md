@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate (CS) | NLP/LLM (Dataset, Benchmarking, Fine-Tuning, Deploy, Evaluate, RAG) | Applied ML
 
