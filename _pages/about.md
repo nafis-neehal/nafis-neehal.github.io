@@ -4,22 +4,21 @@ title: About
 permalink: /
 subtitle: PhD Candidate (CS) | NLP/LLM (Dataset, Benchmarking, Fine-Tuning, Deploy, Evaluate, RAG) | Applied ML
 
+<div class="card info">
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div class="card info">
       <div class="more-info" style="text-align:center;"> 
         <h4 class="mb-0">Nafis Neehal</h4> 
         <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
       </div>
       <div class="container" style="text-align:center;"> 
-        <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Resume</a> 
-        <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">CV</a> 
-        <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a> 
+        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background:#bc22b4;color:#ffffff">Resume</a> 
+        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background:#bc22b4;color:#ffffff">CV</a>  
       </div>
-    </div>
+</div>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
