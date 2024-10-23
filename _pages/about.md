@@ -10,17 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-  <div class="card info">
-    <div class="more-info" style="text-align:center;"> 
-      <h4 class="mb-0">Nafis Neehal</h4> 
-      <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
-    </div>
-    <div class="container" style="text-align:center;"> 
-      <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Resume</a> 
-      <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">CV</a> 
-      <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a> 
-    </div>
+  <div class="more-info" style="text-align:center;"> 
+    <h4>Nafis Neehal</h4> 
+    <p><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
   </div>
+  <div class="container" style="text-align:center;"> 
+    <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Resume</a> 
+    <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">CV</a> 
+    <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a> 
+  </div>
+
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
