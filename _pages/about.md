@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate (CS) | NLP/LLM (Dataset, Benchmarking, Fine-Tuning, Deploy, Evaluate, RAG) | Applied ML
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>nafisneehal95@gmail.com</p>
-    <p>PhD(Candidate), CS, Rensselaer Polytechnic Institute</p>
-    <p>Troy, NY, USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
