@@ -12,11 +12,12 @@ profile:
 
   #### Nafis Neehal
   <nafisneehal95@gmail.com>
-  <div class="container" style="text-align:center;"> 
-    <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Resume</a> 
-    <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">CV</a> 
-    <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a> 
-  </div>
+  
+  # <div class="container" style="text-align:center;"> 
+  #   <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Resume</a> 
+  #   <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">CV</a> 
+  #   <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a> 
+  # </div>
 
 
 news: false # includes a list of news items
