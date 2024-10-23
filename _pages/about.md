@@ -14,8 +14,8 @@ profile:
         <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
       </div>
       <div class="container" style="text-align:center;"> 
-        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background:#bc22b4;color:#ffffff">Resume</a> 
-        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background:#bc22b4;color:#ffffff">CV</a>  
+        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">Resume</a> 
+        <a class="btn btn-info btn-sm" href="#" target="_blank" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">CV</a>  
       </div>
 
 news: false # includes a list of news items
