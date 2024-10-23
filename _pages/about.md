@@ -15,7 +15,7 @@ profile:
       <h4 class="mb-0">Nafis Neehal</h4> 
       <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
     </div>
-    <div class="container" style="text-align: center;"> 
+    <div class="container" style="text-align:center;"> 
       <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Resume</a> 
       <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">CV</a> 
       <a class="btn-badge" href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a> 
