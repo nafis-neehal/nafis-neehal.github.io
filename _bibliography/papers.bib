@@ -1,3 +1,208 @@
+%%%%%%%%%%%%%% 2024 %%%%%%%%%%%%%%
+
+@article{neehal2024design,
+  abbr={RecSys},
+  title={Design and Assessment of Representative Hybrid Clinical Trials using Health Recommender System},
+  author={Neehal, Nafis and Anand, Vibha and Bennett, Kristin P},
+  year={2024},
+  abstract={Incorporating real-world data (RWD) into clinical trials can enhance trial efficiency, 
+  diversity, and generalizability. This paper introduces the Framework for Research in Synthetic Control Arms 
+  (FRESCA), which uses a novel Recommender System combined with Equity Adjustment strategies to design and 
+  evaluate Representative Hybrid Clinical Trials (HCTs). FRESCA employs a novel matching algorithm through 
+  its recommendation system to select suitable patients from RWD while ensuring that the selected population 
+  is representative of the target demographic. This dual approach improves both patient selection and trial 
+  outcomes by balancing statistical appropriateness and equity. Simulations based on data from two existing 
+  randomized clinical trials (RCTs) show that using FRESCA to recommend patients from RWD and apply equity 
+  adjustments enhances internal validity and generalizability. Our analysis indicates that combining matching 
+  and equity adjustments yields more accurate treatment effect estimates and fair population representation, 
+  even with reduced RCT control group sizes. In contrast, using either method alone may result in biased outcomes. 
+  The flexibility of FRESCA to simulate various HCT scenarios makes it a valuable tool for advancing equitable and 
+  efficient clinical trial designs.},
+  html={https://ceur-ws.org/Vol-3823/13_nafis_design_200.pdf},
+  pdf={recsys_24.pdf},
+  preview={recsys_24.pressing}
+}
+
+@article{neehal2024ctbench,
+  abbr={arXiv},
+  bibtex_show={true},
+  title={CTBench: A Comprehensive Benchmark for Evaluating Language Model Capabilities in Clinical Trial Design},
+  author={Neehal, Nafis and Wang, Bowen and Debopadhaya, Shayom and Dan, Soham and Murugesan, Keerthiram and Anand, Vibha and Bennett, Kristin P},
+  journal={arXiv preprint arXiv:2406.17888},
+  year={2024},
+  abstract={We introduce CTBench, a benchmark to assess language models (LMs) in aiding
+            clinical study design. Given metadata specific to a study, CTBench examines
+            how well AI models can determine the baseline features of the clinical trial (CT)
+            which include demographic and relevant features collected at the start of the trial
+            from all participants. The baseline features, typically presented in CT publications
+            (often as Table 1), are crucial for characterizing study cohorts and validating
+            results. Baseline features, including confounders and covariates, are also required
+            for accurate treatment effect estimation in studies involving observational data.
+            CTBench consists of two datasets: "CT-Repo", containing baseline features from
+            1, 690 clinical trials sourced from clinicaltrials.gov, and "CT-Pub", a subset
+            of 100 trials with more comprehensive baseline features gathered from relevant
+            publications. We develop two LM-based evaluation methods for evaluating the
+            actual baseline feature lists against LM-generated responses. “ListMatch-LM”
+            and “ListMatch-BERT” use GPT-4o and BERT scores (at various thresholds),
+            respectively, to perform the evaluation. To establish baseline results, we apply
+            advanced prompt engineering techniques using LLaMa3-70B-Instruct and GPT-4o
+            in zero-shot and three-shot learning settings to generate potential baseline features.
+            We validate the performance of GPT-4o as an evaluator through human-in-the-loop 
+            evaluations on the CT-Pub dataset, where clinical experts confirm matches between
+            actual and LM-generated features. Our results highlight a promising direction with
+            significant potential for improvement, positioning CTBench as a useful tool for
+            advancing research on AI in CT design and potentially enhancing the efficacy and
+            robustness of CTs.},
+  arxiv={2406.17888},
+  code={https://github.com/nafis-neehal/CTBench_LLM},
+  pdf={ctbench_24.pdf},
+  preview={neehal2024ctbench.jpg}
+}
+
+%%%%%%%%%%%%%% 2023 %%%%%%%%%%%%%%
+
+@inproceedings{neehal2023framework,
+  abbr={AMIA},
+  bibtex_show={true},
+  title={Framework for Research in Equitable Synthetic Control Arms},
+  author={Neehal, Nafis and Anand, Vibha and Bennett, Kristin P},
+  booktitle={AMIA Annual Symposium Proceedings},
+  volume={2023},
+  pages={530},
+  year={2023},
+  organization={American Medical Informatics Association},
+  abstract={Randomized Clinical Trials (RCTs) measure an intervention’s efficacy, but they may not be 
+  generalizable to a desired target population if the RCT is not equitable. Thus, representativeness of 
+  RCTs has become a national priority. Synthetic Controls (SCs) that incorporate observational data into 
+  RCTs have shown great potential to produce more efficient studies, but their equity is rarely considered. 
+  Here, we examine how to improve treatment effect estimation and equity of a trial by augmenting “on-trial” 
+  concurrent controls with SCs to form a Hybrid Control Arm (HCA). We introduce FRESCA – a framework to evaluate 
+  HCA construction methods using RCT simulations. FRESCA shows that doing propensity and equity adjustment when 
+  constructing the HCA leads to accurate population treatment effect estimates while meeting equity goals with 
+  potentially less “on-trial” patients. This work represents the first investigation of equity in HCA design that 
+  provides definitions, metrics, compelling questions, and resources for future work.},
+  pdf={fresca_23.pdf},
+  html={https://pmc.ncbi.nlm.nih.gov/articles/PMC10785851/},
+  code={https://github.com/nafis-neehal/FRESCA},
+  preview={fresca_23.png}
+}
+
+@article{neehalequiscat,
+  abbr={SCT},
+  bibtex_show={true},
+  title={EquiSCAT: Strategies for Equity Considerations in Synthetic Control Arm Design 🏆},
+  author={Neehal, Nafis and Anand, Vibha and Bennett, Kristin P},
+  year={2023},
+  pdf={poster_23.pdf},
+  preview={bp_award_23.jpg}
+}
+
+%%%%%%%%%%%%%% 2022 %%%%%%%%%%%%%%
+
+@inproceedings{mavroudeas2022subpopulation,
+  abbr={IEEE BIBM},
+  bibtex_show={true},
+  title={Subpopulation Analysis in Causal Inference: A Healthcare Case Study},
+  author={Mavroudeas, Georgios and Neehal, Nafis and Kuruzovich, Jason and Bennett, Kristin P and Magdon-Ismail, Malik},
+  booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={1673--1676},
+  year={2022},
+  organization={IEEE},
+  abstract={Treatment interventions are usually targeted to improve a specific outcome on as elected 
+  group of patients who are eligible to receive the treatment. The success of such treatments is 
+  determined by the post-intervention treatment effect on the population under consideration. 
+  There are cases when the treatment group contains multiple categories of eligible populations, 
+  with various effects, especially when the study’s criteria are loosely defined. In such studies 
+  (non-targeted trials) non-eligible subjects may be treated, producing heterogeneous treatment 
+  effects within the treated group. Inferring the effectiveness of the treatment under this scenario 
+  is difficult since the average treatment effect on the treated is a combination of multiple effect 
+  levels. This can bias the resulting conclusion of the causal studies. We propose an end-to-end framework 
+  based on matching and unsupervised clustering for extracting population sub-groups based on their effect 
+  levels. We demonstrate our methods on a real-world healthcare application, highlighting the value of 
+  subpopulation analysis for recovering multiple effect groups.},
+  html={https://ieeexplore.ieee.org/abstract/document/9995265},
+  pdf={subpopulation_22.pdf},
+  preview={subpopulation_22.png}
+}
+
+@inproceedings{neehal2022hybrid,
+  abbr={HIMS},
+  bibtex_show={true},
+  title={Hybrid matching methods for treatment program evaluation: A case study},
+  author={Neehal, Nafis and Mavroudeas, Georgios and Magdon-Ismail, M and Kuruzovich, J and Bennett, KP},
+  booktitle={International Conference on Health Informatics and Medical Systems},
+  year={2022},
+  pdf={hybrid_22.pdf},
+  abstract={We study a type-2 diabetes (T2D) health management pro-
+gram (HMP) using causal methods for treatment effect estimation on
+electronic health records. We use matching and survival analyses to assess
+T2D onset and acute care usage (emergency room or inpatient visits).
+To account for bias and healthcare usage changes due to the COVID-19
+pandemic, we developed a hybrid matching approach that first identifies
+the set of potential controls based on time and other critical features
+and then applies matching methods. We compare results across seven
+state-of-the-art methods including expert-informed approaches. We find
+that HMP potentially improved subject health by more rapidly identi-
+fying patients with undiagnosed T2D at enrollment, allowing for timely
+treatment. After the initial two months, no significant differences are
+observed in time to T2D onset. We also found that HMP patients were
+less likely to seek acute care indicating improved health outcomes. We
+highlight practical challenges in observational health studies.},
+preview={hybrid_22.png}
+}
+
+%%%%%%%%%%%%%% 2021 %%%%%%%%%%%%%%
+@inproceedings{mavroudeas2021predictive,
+  abbr={IEEE BIBM},
+  bibtex_show={true},
+  title={Predictive modeling for complex care management},
+  author={Mavroudeas, Georgios and Neehal, Nafis and Shou, Xiao and Magdon-Ismail, Malik and Kuruzovich, Jason N and Bennett, Kristin P},
+  booktitle={2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={1443--1448},
+  year={2021},
+  organization={IEEE}, 
+  abstract={Complex care management (CCM) or hot spotting programs identify and manage high-need/high-cost patients, 
+  improving long-term health quality and medical costs. Typically, physicians refer patients to CCM. Despite strict 
+  guidelines to ensure that eligible patients are placed in appropriate programs, such a provider-based approach is 
+  limited by provider-capacity and the narrow view of a patient that a provider sees. We propose an ML workflow to 
+  augment the provider-based approach, that can flag patients who are suited to CCM. Our predictor uses a global view 
+  of a patient’s entire history across multiple providers and time to identify high-risk individuals from among all 
+  the individuals in a matter of seconds. On a monthly basis, we evaluate our predictions against physician referrals. 
+  In the test dataset, 41% of the top-500 highest risk individuals found by our model were referred to CCM by a physician 
+  at some point in the 6-month window following our prediction (top-500 is a parameter that can be set to match the 
+  CCM program’s capacity). Of those who were not referred in the 6-month window, 30% were referred at some time in their 
+  trajectory. The remaining false positives had a greater than 95% similarity when compared to true positive physician 
+  referrals in terms of cost profiles (both prior to referral and after referral) and patient profile. This remarkable 
+  similarity suggests that our machine learning predictor can identify new candidates for complex care management and/or 
+  predict referrals before a physician has an opportunity to do so.},
+  html={https://ieeexplore.ieee.org/abstract/document/9669714},
+  pdf={ccm_21.pdf},
+  preview={ccm_21.png}
+}
+
+%%%%%%%%%%%%%% 2020 %%%%%%%%%%%%%%
+@inproceedings{shultana2020olympic,
+  abbr={Springer IJCCI},
+  bibtex_show={true},
+  title={Olympic sports events classification using convolutional neural networks},
+  author={Shultana, Shahana and Moharram, Md Shakil and Neehal, Nafis},
+  booktitle={Proceedings of International Joint Conference on Computational Intelligence: IJCCI 2018},
+  pages={507--518},
+  year={2020},
+  organization={Springer Singapore},
+  html={https://link.springer.com/chapter/10.1007/978-981-13-7564-4_43},
+  abstract={The analysis of different sports data to get valuable insight has become immensely 
+  important nowadays. Profuse application of Artificial Intelligence in different sectors has 
+  become a very popular trend as well. However, the application of AI in sports analytics is still 
+  a new research domain left for exploration. With a view to applying AI in sports analytics, 
+  we have deployed Inception V3 and MobileNet which are Google’s most popular Convolutional Neural 
+  Networks to successfully recognize five different sports events from a huge image dataset of these events. 
+  Both of the models have achieved a very high performance in terms of accuracy, precision, recall, and f-measure 
+  while applied to the target dataset for successful classification.},
+  pdf={olympic_20.pdf}
+}
+
+%%%%%%%%%%%%%% 2019 %%%%%%%%%%%%%%
 @inproceedings{foysal2019shot,
   abbr={Springer RTIP2R},
   bibtex_show={true},
@@ -40,7 +245,9 @@
   data are clustered based on similarity, and only the most similar data cluster is searched instead of 
   whole dataset during the identification event. Using our method we have achieved a maximum of 79.26% time reduction with 100% accuracy.},
   pdf={ecg_19.pdf},
-  html={https://ieeexplore.ieee.org/abstract/document/8679286}
+  html={https://ieeexplore.ieee.org/abstract/document/8679286},
+  code={https://github.com/nafis-neehal/ECGAuth_Kmeans},
+  preview={ecg_19.jpg}
 }
 
 @inproceedings{haque2019exnet,
@@ -83,30 +290,6 @@
   html={https://link.springer.com/chapter/10.1007/978-981-13-9184-2_41}
 }
 
-@inproceedings{neehal2017cloud,
-  abbr={IEEE ICCIT},
-  bibtex_show={true},
-  title={Cloud-poa: A cloud-based map only implementation of po-msa on amazon multi-node ec2 hadoop cluster},
-  author={Neehal, Nafis and Karim, Dewan Ziaul and Islam, Ashraful},
-  booktitle={2017 20th International Conference of Computer and Information Technology (ICCIT)},
-  pages={1--6},
-  year={2017},
-  organization={IEEE},
-  abstract={Sequence alignment in bioinformatics and compu-tational biology has always been a challenging task. 
-  With Next Generation Sequencing (NGS) techniques in hand, researchers are now capable of studying biological 
-  systems at a level never been possible before. Scientists now have billions of bytes of biological data to work with, 
-  trillions of sequences to align. But this comes at a cost of requiring computing machines having a tremendous amount of 
-  computational and analytical power. Purchasing this huge amount of hardware and setting up a standalone infrastructure 
-  would not only cost an unnecessarily massive amount of money and labor but also would become troublesome to maintain. 
-  Moreover, for aligning a huge number of DNA or Protein sequences a scalable multiple sequence alignment (MSA) algorithms 
-  is needed with decent accuracy. In such context, this paper presents a novel implementation of Partial Order Alignment (POA) 
-  algorithm on a multi-node Hadoop Cluster running on MapReduce framework. The implementation was done in Amazon AWS platform 
-  with multiple EC2 instances. It is a map-only implementation with Hadoop Streaming. The result of this implementation shows 
-  a drastic reduction in runtime with no accuracy degradation.},
-  pdf={cloudpoa_17.pdf},
-  html={https://ieeexplore.ieee.org/abstract/document/8281808}
-}
-
 @inproceedings{junayed2019acnenet,
   abbr={IEEE ICTS},
   bibtex_show={true},
@@ -131,48 +314,29 @@
   html={https://ieeexplore.ieee.org/abstract/document/8850935}
 }
 
-@article{islam2018inceptb,
-  abbr={Elsevier Procedia},
+@inproceedings{neehal2017cloud,
+  abbr={IEEE ICCIT},
   bibtex_show={true},
-  title={InceptB: a CNN based classification approach for recognizing traditional bengali games},
-  author={Islam, Mohammad Shakirul and Foysal, Ferdouse Ahmed and Neehal, Nafis and Karim, Enamul and Hossain, Syed Akhter},
-  journal={Procedia computer science},
-  volume={143},
-  pages={595--602},
-  year={2018},
-  publisher={Elsevier},
-  html={https://www.sciencedirect.com/science/article/pii/S1877050918321343},
-  abstract={Sports activities are an integral part of our day to day life. Introducing autonomous 
-  decision making and predictive models to recognize and analyze different sports events and activities 
-  has become an emerging trend in computer vision arena. Albeit the advances and vivid applications of 
-  artificial intelligence and computer vision in recognizing different popular western games, there 
-  remains a very minimal amount of efforts in the application of computer vision in recognizing traditional 
-  Bangladeshi games. We, in this paper, have described a novel Deep Learning based approach for recognizing 
-  traditional Bengali games. We have retrained the final layer of the renowned Inception V3 architecture developed 
-  by Google for our classification approach. Our approach shows promising results with an average accuracy of 80% 
-  approximately in correctly recognizing among 5 traditional Bangladeshi sports events.},
-  pdf={inceptb_18.pdf}
-}
-
-@inproceedings{shultana2020olympic,
-  abbr={Springer IJCCI},
-  bibtex_show={true},
-  title={Olympic sports events classification using convolutional neural networks},
-  author={Shultana, Shahana and Moharram, Md Shakil and Neehal, Nafis},
-  booktitle={Proceedings of International Joint Conference on Computational Intelligence: IJCCI 2018},
-  pages={507--518},
-  year={2020},
-  organization={Springer Singapore},
-  html={https://link.springer.com/chapter/10.1007/978-981-13-7564-4_43},
-  abstract={The analysis of different sports data to get valuable insight has become immensely 
-  important nowadays. Profuse application of Artificial Intelligence in different sectors has 
-  become a very popular trend as well. However, the application of AI in sports analytics is still 
-  a new research domain left for exploration. With a view to applying AI in sports analytics, 
-  we have deployed Inception V3 and MobileNet which are Google’s most popular Convolutional Neural 
-  Networks to successfully recognize five different sports events from a huge image dataset of these events. 
-  Both of the models have achieved a very high performance in terms of accuracy, precision, recall, and f-measure 
-  while applied to the target dataset for successful classification.},
-  pdf={olympic_20.pdf}
+  title={Cloud-poa: A cloud-based map only implementation of po-msa on amazon multi-node ec2 hadoop cluster},
+  author={Neehal, Nafis and Karim, Dewan Ziaul and Islam, Ashraful},
+  booktitle={2017 20th International Conference of Computer and Information Technology (ICCIT)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE},
+  abstract={Sequence alignment in bioinformatics and compu-tational biology has always been a challenging task. 
+  With Next Generation Sequencing (NGS) techniques in hand, researchers are now capable of studying biological 
+  systems at a level never been possible before. Scientists now have billions of bytes of biological data to work with, 
+  trillions of sequences to align. But this comes at a cost of requiring computing machines having a tremendous amount of 
+  computational and analytical power. Purchasing this huge amount of hardware and setting up a standalone infrastructure 
+  would not only cost an unnecessarily massive amount of money and labor but also would become troublesome to maintain. 
+  Moreover, for aligning a huge number of DNA or Protein sequences a scalable multiple sequence alignment (MSA) algorithms 
+  is needed with decent accuracy. In such context, this paper presents a novel implementation of Partial Order Alignment (POA) 
+  algorithm on a multi-node Hadoop Cluster running on MapReduce framework. The implementation was done in Amazon AWS platform 
+  with multiple EC2 instances. It is a map-only implementation with Hadoop Streaming. The result of this implementation shows 
+  a drastic reduction in runtime with no accuracy degradation.},
+  pdf={cloudpoa_17.pdf},
+  html={https://ieeexplore.ieee.org/abstract/document/8281808},
+  code={https://github.com/nafis-neehal/CloudPoa}
 }
 
 @inproceedings{junayed2019comparative,
@@ -240,56 +404,30 @@
   html={https://ieeexplore.ieee.org/abstract/document/8934464}
 }
 
-@inproceedings{mavroudeas2021predictive,
-  abbr={IEEE BIBM},
-  bibtex_show={true},
-  title={Predictive modeling for complex care management},
-  author={Mavroudeas, Georgios and Neehal, Nafis and Shou, Xiao and Magdon-Ismail, Malik and Kuruzovich, Jason N and Bennett, Kristin P},
-  booktitle={2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-  pages={1443--1448},
-  year={2021},
-  organization={IEEE}, 
-  abstract={Complex care management (CCM) or hot spotting programs identify and manage high-need/high-cost patients, 
-  improving long-term health quality and medical costs. Typically, physicians refer patients to CCM. Despite strict 
-  guidelines to ensure that eligible patients are placed in appropriate programs, such a provider-based approach is 
-  limited by provider-capacity and the narrow view of a patient that a provider sees. We propose an ML workflow to 
-  augment the provider-based approach, that can flag patients who are suited to CCM. Our predictor uses a global view 
-  of a patient’s entire history across multiple providers and time to identify high-risk individuals from among all 
-  the individuals in a matter of seconds. On a monthly basis, we evaluate our predictions against physician referrals. 
-  In the test dataset, 41% of the top-500 highest risk individuals found by our model were referred to CCM by a physician 
-  at some point in the 6-month window following our prediction (top-500 is a parameter that can be set to match the 
-  CCM program’s capacity). Of those who were not referred in the 6-month window, 30% were referred at some time in their 
-  trajectory. The remaining false positives had a greater than 95% similarity when compared to true positive physician 
-  referrals in terms of cost profiles (both prior to referral and after referral) and patient profile. This remarkable 
-  similarity suggests that our machine learning predictor can identify new candidates for complex care management and/or 
-  predict referrals before a physician has an opportunity to do so.},
-  html={https://ieeexplore.ieee.org/abstract/document/9669714},
-  pdf={ccm_21.pdf}
-}
 
-@inproceedings{mavroudeas2022subpopulation,
-  abbr={IEEE BIBM},
+%%%%%%%%%%%%%% 2018 %%%%%%%%%%%%%%
+
+@article{islam2018inceptb,
+  abbr={Elsevier Procedia},
   bibtex_show={true},
-  title={Subpopulation Analysis in Causal Inference: A Healthcare Case Study},
-  author={Mavroudeas, Georgios and Neehal, Nafis and Kuruzovich, Jason and Bennett, Kristin P and Magdon-Ismail, Malik},
-  booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-  pages={1673--1676},
-  year={2022},
-  organization={IEEE},
-  abstract={Treatment interventions are usually targeted to improve a specific outcome on as elected 
-  group of patients who are eligible to receive the treatment. The success of such treatments is 
-  determined by the post-intervention treatment effect on the population under consideration. 
-  There are cases when the treatment group contains multiple categories of eligible populations, 
-  with various effects, especially when the study’s criteria are loosely defined. In such studies 
-  (non-targeted trials) non-eligible subjects may be treated, producing heterogeneous treatment 
-  effects within the treated group. Inferring the effectiveness of the treatment under this scenario 
-  is difficult since the average treatment effect on the treated is a combination of multiple effect 
-  levels. This can bias the resulting conclusion of the causal studies. We propose an end-to-end framework 
-  based on matching and unsupervised clustering for extracting population sub-groups based on their effect 
-  levels. We demonstrate our methods on a real-world healthcare application, highlighting the value of 
-  subpopulation analysis for recovering multiple effect groups.},
-  html={https://ieeexplore.ieee.org/abstract/document/9995265},
-  pdf={subpopulation_22.pdf}
+  title={InceptB: a CNN based classification approach for recognizing traditional bengali games},
+  author={Islam, Mohammad Shakirul and Foysal, Ferdouse Ahmed and Neehal, Nafis and Karim, Enamul and Hossain, Syed Akhter},
+  journal={Procedia computer science},
+  volume={143},
+  pages={595--602},
+  year={2018},
+  publisher={Elsevier},
+  html={https://www.sciencedirect.com/science/article/pii/S1877050918321343},
+  abstract={Sports activities are an integral part of our day to day life. Introducing autonomous 
+  decision making and predictive models to recognize and analyze different sports events and activities 
+  has become an emerging trend in computer vision arena. Albeit the advances and vivid applications of 
+  artificial intelligence and computer vision in recognizing different popular western games, there 
+  remains a very minimal amount of efforts in the application of computer vision in recognizing traditional 
+  Bangladeshi games. We, in this paper, have described a novel Deep Learning based approach for recognizing 
+  traditional Bengali games. We have retrained the final layer of the renowned Inception V3 architecture developed 
+  by Google for our classification approach. Our approach shows promising results with an average accuracy of 80% 
+  approximately in correctly recognizing among 5 traditional Bangladeshi sports events.},
+  pdf={inceptb_18.pdf}
 }
 
 @article{harun2018crick,
@@ -298,19 +436,7 @@
   title={Crick-net: a convolutional neural network based classification approach for detecting waist high no balls in cricket},
   author={Harun-Ur-Rashid, Md and Khatun, Shekina and Trisha, Mehe Zabin and Neehal, Nafis and Hasan, Md Zahid},
   journal={arXiv preprint arXiv:1805.05974},
-  year={2018}
-}
-
-@inproceedings{neehal2023framework,
-  abbr={AMIA},
-  bibtex_show={true},
-  title={Framework for Research in Equitable Synthetic Control Arms},
-  author={Neehal, Nafis and Anand, Vibha and Bennett, Kristin P},
-  booktitle={AMIA Annual Symposium Proceedings},
-  volume={2023},
-  pages={530},
-  year={2023},
-  organization={American Medical Informatics Association},
+  year={2018},
   html={https://www.researchgate.net/profile/Nafis-Neehal/publication/325191363_Crick-net_A_Convolutional_Neural_Network_based_Classification_Approach_for_Detecting_Waist_High_No_Balls_in_Cricket/links/5b0042440f7e9be94bd8cc54/Crick-net-A-Convolutional-Neural-Network-based-Classification-Approach-for-Detecting-Waist-High-No-Balls-in-Cricket.pdf},
   abstract={Cricket is undoubtedly one of the most popular games in this modern
 era. As human beings are prone to error, there remains a constant need for
@@ -325,7 +451,6 @@ differentiate waist high no balls with fair balls. Our approach achieves an
 overall average accuracy of 88% with a fairly low cross-entropy value.},
   pdf={cricknet_23.pdf}
 }
- 
 
 @article{neehalbook,
   abbr={Book},
@@ -337,73 +462,8 @@ overall average accuracy of 88% with a fairly low cross-entropy value.},
   html={https://www.rokomari.com/book/173164/machine-learning-algorithm},
 }
 
-@article{neehal2024ctbench,
-  abbr={arXiv},
-  bibtex_show={true},
-  title={CTBench: A Comprehensive Benchmark for Evaluating Language Model Capabilities in Clinical Trial Design},
-  author={Neehal, Nafis and Wang, Bowen and Debopadhaya, Shayom and Dan, Soham and Murugesan, Keerthiram and Anand, Vibha and Bennett, Kristin P},
-  journal={arXiv preprint arXiv:2406.17888},
-  year={2024},
-  abstract={We introduce CTBench, a benchmark to assess language models (LMs) in aiding
-            clinical study design. Given metadata specific to a study, CTBench examines
-            how well AI models can determine the baseline features of the clinical trial (CT)
-            which include demographic and relevant features collected at the start of the trial
-            from all participants. The baseline features, typically presented in CT publications
-            (often as Table 1), are crucial for characterizing study cohorts and validating
-            results. Baseline features, including confounders and covariates, are also required
-            for accurate treatment effect estimation in studies involving observational data.
-            CTBench consists of two datasets: "CT-Repo", containing baseline features from
-            1, 690 clinical trials sourced from clinicaltrials.gov, and "CT-Pub", a subset
-            of 100 trials with more comprehensive baseline features gathered from relevant
-            publications. We develop two LM-based evaluation methods for evaluating the
-            actual baseline feature lists against LM-generated responses. “ListMatch-LM”
-            and “ListMatch-BERT” use GPT-4o and BERT scores (at various thresholds),
-            respectively, to perform the evaluation. To establish baseline results, we apply
-            advanced prompt engineering techniques using LLaMa3-70B-Instruct and GPT-4o
-            in zero-shot and three-shot learning settings to generate potential baseline features.
-            We validate the performance of GPT-4o as an evaluator through human-in-the-loop 
-            evaluations on the CT-Pub dataset, where clinical experts confirm matches between
-            actual and LM-generated features. Our results highlight a promising direction with
-            significant potential for improvement, positioning CTBench as a useful tool for
-            advancing research on AI in CT design and potentially enhancing the efficacy and
-            robustness of CTs.},
-  arxiv={2406.17888},
-  code={https://github.com/nafis-neehal/CTBench_LLM},
-  pdf={ctbench_24.pdf},
-  preview={neehal2024ctbench.jpg}
-}
 
-@inproceedings{neehal2022hybrid,
-  abbr={HIMS},
-  bibtex_show={true},
-  title={Hybrid matching methods for treatment program evaluation: A case study},
-  author={Neehal, Nafis and Mavroudeas, Georgios and Magdon-Ismail, M and Kuruzovich, J and Bennett, KP},
-  booktitle={International Conference on Health Informatics and Medical Systems},
-  year={2022},
-  pdf={hybrid_22.pdf},
-  abstract={We study a type-2 diabetes (T2D) health management pro-
-gram (HMP) using causal methods for treatment effect estimation on
-electronic health records. We use matching and survival analyses to assess
-T2D onset and acute care usage (emergency room or inpatient visits).
-To account for bias and healthcare usage changes due to the COVID-19
-pandemic, we developed a hybrid matching approach that first identifies
-the set of potential controls based on time and other critical features
-and then applies matching methods. We compare results across seven
-state-of-the-art methods including expert-informed approaches. We find
-that HMP potentially improved subject health by more rapidly identi-
-fying patients with undiagnosed T2D at enrollment, allowing for timely
-treatment. After the initial two months, no significant differences are
-observed in time to T2D onset. We also found that HMP patients were
-less likely to seek acute care indicating improved health outcomes. We
-highlight practical challenges in observational health studies.}
-}
 
-@article{neehalequiscat,
-  abbr={SCT},
-  bibtex_show={true},
-  title={EquiSCAT: Strategies for Equity Considerations in Synthetic Control Arm Design 🏆},
-  author={Neehal, Nafis and Anand, Vibha and Bennett, Kristin P},
-  year={2023},
-  pdf={poster_23.pdf},
-  preview={bp_award_23.jpg}
-}
+
+
+
