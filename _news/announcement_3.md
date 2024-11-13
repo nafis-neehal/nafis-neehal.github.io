@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New Paper released on LLMs in Clinical Trial Design. 🚀 [[Link]](https://arxiv.org/abs/2406.17888) 
+New Paper released on LLMs in Clinical Trial Design.  [[Link]](https://arxiv.org/abs/2406.17888) 

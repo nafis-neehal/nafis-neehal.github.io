@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining BanglaLLM - developing LLMs to improve reasoning in Bengali Language. 🚀 [[HuggingFace]](https://huggingface.co/BanglaLLM) 
+Joining BanglaLLM - developing LLMs to improve reasoning in Bengali Language. [[HuggingFace]](https://huggingface.co/BanglaLLM) 

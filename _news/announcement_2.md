@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-RecSys'24 (@HealthRecSys) Paper out now. 🚀 [[Link]](https://ceur-ws.org/Vol-3823/13_nafis_design_200.pdf) 
+RecSys'24 (@HealthRecSys) Paper out now.  [[Link]](https://ceur-ws.org/Vol-3823/13_nafis_design_200.pdf) 
