@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <div class="card info"
+      <div class="card info">
         <div class="more-info" style="text-align:center;"> 
           <h4 class="mb-0">Nafis Neehal</h4> 
           <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
