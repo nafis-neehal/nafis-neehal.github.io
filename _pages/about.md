@@ -20,8 +20,8 @@ profile:
         </div>
       </div>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: True # includes a list of news items
+selected_papers: True # includes a list of papers marked as "selected={true}"
 social: True # includes social icons at the bottom of the page
 ---
 
