@@ -15,7 +15,7 @@ profile:
           <p class="mb-1"><span class="emph">nafisneehal95</span>@<span class="emph">gmail</span>.<span class="emph">com</span></p> 
         </div>
         <div class="container" style="text-align:center;"> 
-          <a class="btn btn-sm" href="#" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">Resume</a> 
+          <a class="btn btn-sm" href="https://nafis-neehal.github.io/assets/pdf/Nafis_Neehal_Resume.pdf" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">Resume</a> 
           <a class="btn btn-sm" href="#" rel="noopener noreferrer" style="background-color:#bc22b4;color:#ffffff">CV</a>  
         </div>
       </div>
