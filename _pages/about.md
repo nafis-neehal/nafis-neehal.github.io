@@ -68,13 +68,12 @@ Architected end-to-end ML pipelines using AWS SageMaker, MLflow, and Docker, opt
   - GraphRAG
   - Trustworthiness Evaluation
   - Deployment (WebUI + Cloud Serving)
+
 ---
 
 ## Beyond Research
 
 Beyond research, I am passionate about developing novel AI applications that solve real-world problems. I find deep intellectual engagement in reading across genres, with particular interests in human history and international politics, exploring how past events and current global dynamics shape our world. I'm an avid follower of science fiction movies and series, fascinated by their vision of technological futures and exploration of human-AI interactions. In my leisure time, I enjoy the strategic complexities and psychological elements of poker, which mirrors many of the analytical challenges I tackle in my research work.
-
---- 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
