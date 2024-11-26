@@ -55,10 +55,11 @@ Architected end-to-end ML pipelines using AWS SageMaker, MLflow, and Docker, opt
 
 ## Technical Expertise
 
-- **Languages & DB**: Python, SQL, R, C++, Neo4j, Google Firestore, MySQL
-- **ML/DL/Causal**: PyTorch, DDP, TensorFlow, Scikit-learn, AutoML, OpenCV, EconML, DoWhy
-- **MLOps Stack**: MLflow, Docker, CI/CD, ChromaDB, Hopsworks, PySpark, AWS (SageMaker, Lambda, EC2)
-- **LLM Frameworks** LangChain, LlamaIndex, Hugging Face, Axolotl, Unsloth, Autotrain, LangGraph, Opik, Comet
+- **Languages & DB**: Python, SQL, R, C++, Neo4j, Google Firestore (NoSQL), MySQL, SQLite
+- **ML/DL/Causal**: PyTorch, DDP, TensorFlow, Scikit-learn, DeepSpeed, AutoML, OpenCV, SHAP, EconML, DoWhy
+- **MLOps Stack**: MLflow, Docker, CI/CD, ChromaDB, Hopsworks, PySpark, W&B, AWS (SageMaker, Lambda, EC2)
+- **LLM Frameworks** LangChain, LlamaIndex, HF Transformers, Axolotl, Unsloth, Autotrain, Comet, PromptHub
+- **Data Visualization and Others** Streamlit, Gradio, R-Shiny, Tableau
 - **Specialization in LLMs**:
   - Prompt Engineering (Zero/Few Shot)
   - Fine-tuning (PEFT)
@@ -73,11 +74,4 @@ Architected end-to-end ML pipelines using AWS SageMaker, MLflow, and Docker, opt
 
 ## Beyond Research
 
-Beyond research, I am passionate about developing novel AI applications that solve real-world problems. I find deep intellectual engagement in reading across genres, with particular interests in human history and international politics, exploring how past events and current global dynamics shape our world. I'm an avid follower of science fiction movies and series, fascinated by their vision of technological futures and exploration of human-AI interactions. In my leisure time, I enjoy the strategic complexities and psychological elements of poker, which mirrors many of the analytical challenges I tackle in my research work.
-
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Beyond research, I am passionate about developing cool AI applications. I enjoy reading with particular interests in human history and international politics, exploring how past events and current global dynamics shape our world. Love to travel around, love mountains, and trains (who doesn't, right?). I'm an avid consumer of sci-fi movies and tv-series, always wondering what future holds for us. Recently developed interest in Archery. Like to have interesting discussions with friends/strangers on Religion, God, Existence, Life and Philosophy. Also,like to play Blackjack, Codenames and Poker with friends.
