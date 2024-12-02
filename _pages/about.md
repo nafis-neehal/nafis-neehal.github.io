@@ -40,13 +40,13 @@ My research has been recognized at leading venues including ACM RecSys, AMIA, an
 My research lies at the intersection of AI and Healthcare, with expertise in developing trustworthy and efficient systems. My work spans:
 
 1. **LLM Development & Evaluation**
-Led development of specialized clinical trial LLMs through quantized fine-tuning of Llama models on 65k+ trials, while engineering novel evaluation frameworks with hallucination-adjusted metrics for GPT-4/LLaMA-70B. Created comprehensive benchmarking infrastructure (CTBench) and implemented RAG architectures with few-shot learning, achieving 48.5% accuracy improvement in clinical trial feature generation tasks.
+Leading development of specialized clinical trial LLMs through quantized fine-tuning of Llama models on 65k+ trials, while engineering novel evaluation frameworks with hallucination-adjusted metrics for GPT-4/LLaMA-70B. Created comprehensive benchmarking infrastructure (CTBench) and implemented RAG architectures with few-shot learning, achieving 18% point improvement of F1 Scores in clinical trial feature generation tasks.
 
 2. **ML Systems for Healthcare**
 Engineered large-scale healthcare ML systems processing 22.5M+ patient records with 87-dimensional features, implementing deep autoencoders for efficient patient matching (35% faster, 40% memory reduction) and hybrid clustering algorithms for treatment effect analysis in 350K+ patient cohorts, while achieving 200x efficiency gain through PCA-based optimization for imbalanced healthcare data.
 
 3. **Health Recommender Systems**
-Developed fairness-aware patient matching frameworks improving treatment effect estimation accuracy by 75-80%, incorporating dual-adjustment pipelines for demographic alignment (96-99% improvement) and multi-stage survival analysis for outcome tracking. Engineered cost-efficient trial recruitment strategies demonstrating 25% reduction in expenses while maintaining equity.
+Developed fairness-aware patient matching frameworks improving treatment effect estimation accuracy by 4% point improvement, incorporating dual-adjustment pipelines for demographic alignment (96% improvement) and multi-stage survival analysis for outcome tracking. Engineered cost-efficient trial recruitment strategies demonstrating 49% reduction in expenses while maintaining equity.
 
 4. **MLOps & System Architecture**
 Architected end-to-end ML pipelines using AWS SageMaker, MLflow, and Docker, optimizing large-scale data processing with PySpark implementations achieving 60% faster processing. Developed distributed computing solutions with vector database integrations for enhanced retrieval systems, focusing on scalability and production-ready deployments.
